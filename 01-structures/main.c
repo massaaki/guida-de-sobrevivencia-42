@@ -14,14 +14,15 @@
 #include <stdlib.h>
 #include "some_structure.h"
 
-int main(void)
+int
+	main(void)
 {
-  student *some_student;
+	student *some_student;
 
-  some_student = (student *)malloc(sizeof(student));
-  printf("Hello 42Sp!\n");
-  printf("Write some name: \n");
-  scanf("%s", some_student->name);
-  printf("student name: %s\n", some_student->name);
-  return (0);
+	some_student = (student *)malloc(sizeof(student));
+	printf("Hello 42Sp!\n");
+	printf("Write some name: \n");
+	scanf("%s", some_student->name);
+	printf("student name: %s\n", some_student->name);
+	return (0);
 }

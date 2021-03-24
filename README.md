@@ -23,4 +23,4 @@ Diz a lenda que o programador que não fizer no seu primeiro código um simples 
 ### 01 - Structure
 
 Um exemplo simples utilizando Structure e atribuindo um valor qualquer no programa principal  
-[00 - Hello World](https://github.com/massaaki/guida-de-sobrevivencia-42/tree/main/00-first_program)
+[01 - Structure](https://github.com/massaaki/guida-de-sobrevivencia-42/tree/main/01-structures)
