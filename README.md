@@ -7,13 +7,13 @@ Este é um guia prático (não oficial da 42), com exemplos de estruturas utiliz
 ### Primeiros passos 
 Para quem tem pouca experiência  
 [Comece por aqui](https://www.notion.so/Ambiente-de-desenvolvimento-c79af00323be4a5f9a84f6b6f544059c)  
-**Tutorial bem legal criado pelo wagnermaidson.**
+(Tutorial criado pelo wagnermaidson)
 
 ### Verificar a sintaxe do seu projeto segue a norma da 42 com o norminette
 A Norminette é o programa que vai checar nossos programas para garantir que eles se adequam a norma da 42.  
 [Clique aqui para acessar o repositorio que exploca em detalhes](https://github.com/eduardomosko/norminette-tutorial)
 Tenho certeza que vamos sofrer MUITO com o norminete rsrs...  
-**Tutorial feito pelo eduardomosko **
+(Tutorial criado pelo wagnermaidson)
 
 ```
 norminette <project_name>.c
