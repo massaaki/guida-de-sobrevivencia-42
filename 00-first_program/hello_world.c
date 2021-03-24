@@ -12,8 +12,10 @@
 
 #include <stdio.h>
 
-int main(void)
+int
+	main(void)
 {
-  printf("Hello 42!");
-  return (0);
+	printf("Hello World!");
+	printf("Hello 42!");
+	return (0);
 }
